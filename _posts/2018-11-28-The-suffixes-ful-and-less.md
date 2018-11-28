@@ -2,8 +2,8 @@
 layout: post
 title:  "The suffixes -ful and -less"
 description: The suffixes -ful and -less
-keywords: tens
-categories: grammar, tens
+keywords: suffixes
+categories: grammar
 ---
 We can add -ful or -less to some nouns to form adjectives. The suffix -ful means "full of". The suffix -less means "without".
 
