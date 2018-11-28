@@ -5,7 +5,7 @@ baseurl:
 date_format: "ordinal"
 title: 乔琳教育
 subtitle: "始终如一的学生英语教育品牌"
-description: "Welcome to JorinEducation!"
+description: "Welcome"
 keywords: Education, John, Jorin, English
 timezone: Asia/NanJing
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Jhon Woo
 organization: JorinEdu
-organization_url: 23.106.154.136:801
+organization_url: http:\\23.106.154.136:801
 github_username: InfiniteWu
 location: Nanjing, China
 email: wuqiong0628@outlook.com
