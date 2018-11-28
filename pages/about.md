@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 始终如一
+keywords: Jhon Woo
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+乔琳教育，是始终如一的学生英语教育品牌，致力于为中国的学生提供优质的个性化英语教学服务。
 
 ## 联系
 
