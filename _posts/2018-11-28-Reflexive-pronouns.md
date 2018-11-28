@@ -40,4 +40,4 @@ We form comparative and superlative adverbs like this:
 The following adverbs have the same form as the adjectives:
 **early, far, fast, hard, high, late, long, near**
 
- [1]: https://github.com/InfiniteWu/InfiniteWu.github.io/images/reflexive.png
+ [1]: https://github.com/InfiniteWu/InfiniteWu.github.io/blob/master/images/reflexive.png?raw=true

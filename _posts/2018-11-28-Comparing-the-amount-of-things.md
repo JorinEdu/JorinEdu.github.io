@@ -18,4 +18,4 @@ Millie has fewer bananas than Kitty. |Millie has the least juice.
 
 
 
-  [1]: https://github.com/InfiniteWu/InfiniteWu.github.io/tree/master/images/comparing.png
+  [1]: https://github.com/InfiniteWu/InfiniteWu.github.io/blob/master/images/comparing.png?raw=true
