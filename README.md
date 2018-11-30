@@ -1,6 +1,4 @@
-# InfiniteWu.github.io
-用来测试静态网站所使用的测试仓库。
+# 欢迎来到乔琳教育官方网站的代码库
+本项目fork自https://github.com/mzlogin/mzlogin.github.io 特此声明。
 
-fork自https://github.com/mzlogin/mzlogin.github.io
-
-由于是使用downloadzip功能在本地修改测试的，故页面不显示fork，特此声明。
+联系我们：17185199130
