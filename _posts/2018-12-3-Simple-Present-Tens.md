@@ -26,17 +26,25 @@ keywords: tens
 *e.g.-Are you in Grade 7?* *-Yes, I am.*
 
 ## 行为动词的一般现在时  
-我们常用一般现在时谈论我们经常做的事，目前的爱好、能力以及不受时间限制的客观事实。这时我们常使用行为动词。这种动词有实际的、具体的含义。  
+* 我们用一般现在时谈论我们经常做的事、爱好、能力以及客观事实：  
+ 这时我们常使用行为动词。这种动词有实际的、具体的含义。  
 *e.g.They are hard-working students. (be动词表述)*  
-*They work hard.(行为动词表述)*  
+*They **work** hard.(行为动词表述)*  
+* 我们用一般现在时提供说明或指示：  
+***Open** your books to page 17.*  
+* 进入高中阶段后，我们会使用连词如：after, when, before, as soon as, until来引导从句，以表述一些将来发生的事情。  
+在这些从句中，我们也会使用一般现在时。  
+*We'll give it to her when she **arrives**.*
 
 行为动词的一般现在时可以用于以下情况：  
 
 |用法              |例句                                      |
 |:-----------------|:-----------------------------------------|
-|经常性习惯性的动作|I go to school at 7 o'clock every morning.|
-|目前的爱好、能力等|She sings very well.                      |
-|不受时限的客观事实|Fish live in water.                       |  
+|经常性习惯性的动作|It **rains** every afternoon.             |
+|能力              |She **runs** very fast.                   |
+|客观事实          |Fish **live** in water.                   |
+|爱好              |I smoke                                   |
+|固定安排          |Our holiday **starts** on the 26th March  |
 
 * 主语人称和数的不同，行为动词一般现在时有两种形式：  
 **当主语时第一、第二人称及第三人称复数时，行为动词使用原形。**  
@@ -55,12 +63,14 @@ keywords: tens
 |特殊变化              |have -> has     |                 |
 
 **行为动词一般现在时的疑问句式是在句首添加助动词do或does。**  
+**行为动词一般现在时的否定句式是在主语后添加do not或does not。**  
 *当主语是**第三人称单数时**，用**does**。*  
+**在疑问句和否定句后，does后面的行为动词使用原形。*  
 *-Do you play basketball after school?  
 -Yes, I do.  
 -Does John speak Chinese?  
 -No, he doesn't.*  
-**在疑问句和否定句后，does后面的行为动词使用原形。*
+
 
 区分行为动词do和助动词do的用法：  
 *I do not do housework on Saturday.  
