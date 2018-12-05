@@ -37,9 +37,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+# -
+#   href: /wiki/
+#   label: 维基
 
   -
     href: /links/
@@ -72,7 +72,7 @@ gems:
 #     - jekyll-mentions
 collections:
     wiki:
-        output: true
+        output: false
         permalink: /wiki/:path/
 
 repository: InfiniteWu/InfiniteWu.github.io
