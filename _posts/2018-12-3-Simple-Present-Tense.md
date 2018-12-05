@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title: Simple Present Tens
-categories: grammar tens
-description: 介绍Simple present tens的语法
-keywords: tens
+title: Simple Present Tense
+categories: grammar tense
+description: 介绍Simple present tense的语法
+keywords: tense
 ---
 
-# 一般现在时(Simple present tens)
+# 一般现在时(Simple present tense)
 ## 动词be的一般现在时
 **我们常用动词be的一般现在时谈论事实和状态。**  
 *e.g.I am from China.*  
