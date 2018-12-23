@@ -13,7 +13,9 @@ keywords: tense
 *e.g.I am from China.*  
 *He is 12 years old.*  
 *We are happy.*  
-----
+
+------
+
 **主语可以是人称代词，也可以是名词。动词be要与前面的主语一致。**  
 主语可以是代词，在非正式行文中，动词be与前面的主语可以缩写。如：I am = I'm等。  
 *e.g.The little dog is very cute.*  
