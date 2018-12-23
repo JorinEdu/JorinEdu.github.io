@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Simple Present Tense
-categories: grammar tense
+categories: tense
 description: 介绍Simple present tense的语法
 keywords: tense
 ---
