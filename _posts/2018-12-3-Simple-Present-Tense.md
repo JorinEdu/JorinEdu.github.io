@@ -5,9 +5,10 @@ categories: grammar tense
 description: 介绍Simple present tense的语法
 keywords: tense
 ---
-
 # 一般现在时(Simple present tense)
+
 ## 动词be的一般现在时
+
 **我们常用动词be的一般现在时谈论事实和状态。**  
 *e.g.I am from China.*  
 *He is 12 years old.*  
@@ -26,6 +27,7 @@ keywords: tense
 *e.g.-Are you in Grade 7?* *-Yes, I am.*
 
 ## 行为动词的一般现在时  
+
 * 我们用一般现在时谈论我们经常做的事、爱好、能力以及客观事实：  
  这时我们常使用行为动词。这种动词有实际的、具体的含义。  
 *e.g.They are hard-working students. (be动词表述)*  
@@ -71,8 +73,7 @@ keywords: tense
 -Does John speak Chinese?  
 -No, he doesn't.*  
 
-
-区分行为动词do和助动词do的用法：  
+### 区分行为动词do和助动词do的用法：  
 *I do not do housework on Saturday.  
 Do you do housework on Saturday?*  
 第一个do是助动词，第二个do是行为动词。
