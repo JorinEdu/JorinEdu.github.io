@@ -3,7 +3,7 @@ layout: post
 title:  "Indefinite Pronouns"
 description: Indefinite Pronouns
 keywords: 
-categories: grammar
+categories: Part_of_speech
 ---
 We use indefinite pronouns to refer to people and things when we do not know or do not need to mention who or what we are talking about.
 
