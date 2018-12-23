@@ -3,7 +3,7 @@ layout: post
 title:  "Reflexive pronouns"
 description: Reflexive pronouns
 keywords: Reflexive pronouns
-categories: grammar
+categories: Part_of_speech
 ---
 We use reflexive pronouns when the subject and the object are the same person or thing.
 
