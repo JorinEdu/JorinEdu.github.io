@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Simple Present Tense
+title: 一般现在时
 categories: tense
 description: 介绍Simple present tense的语法
 keywords: tense
