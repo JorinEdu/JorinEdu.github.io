@@ -3,7 +3,7 @@ layout: post
 title:  "Possessive adjectives and pronouns"
 description: Possessive adjectives and pronouns
 keywords: adjectives
-categories: grammar Part_of_speech
+categories: Part_of_speech
 ---
 1.We usually add 's to a singular noun to express the idea of belonging.
 
