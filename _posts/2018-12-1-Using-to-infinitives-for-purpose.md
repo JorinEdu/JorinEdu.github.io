@@ -3,7 +3,7 @@ layout: post
 title:  "Using to-infinitives for purpose"
 description: Using to-infinitives for purpose
 keywords: to-infinitives purpose
-categories: grammar Part_of_speech
+categories: grammar
 ---
 We can use to-infinitives to express purpose.
 
