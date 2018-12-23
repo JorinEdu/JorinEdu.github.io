@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: present continuous tense
+title: 现在进行时
 categories: tense
 description: 介绍present continuous的语法
 keywords: tense
