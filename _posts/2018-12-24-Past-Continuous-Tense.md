@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: PAST CONTINUOUS TENSE
+title: 过去进行时
 categories: tense
 description: 介绍PAST CONTINUOUS TENSE的语法
 keywords: tense
