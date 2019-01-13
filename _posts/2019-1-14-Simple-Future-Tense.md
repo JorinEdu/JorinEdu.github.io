@@ -57,15 +57,17 @@ They will = they'll
 Will not = won't  
 It will 通常不缩写
 >
+
 ### 用see的一般将来时造句
+
 |**肯定句**   |**否定句**    |**疑问句**    |**反义疑问句** |
 |-------------|--------------|--------------|---------------|
 |I will see   |I won't see   |Will I see?   |Won't I see?   |
-|*I shall see |              |*Shall I see? |               |
+|I shall see  |              |Shall I see?  |               |
 |You will see |You won't see |Will you see? |Won't you see? |
 |He will see  |He won't see  |Will he see?  |Won't he see?  |
 |We will see  |We won't see  |Will we see?  |Won't we see?  |
-|*We shall see|              |*Shall we see?|               |
+|We shall see |              |Shall we see? |               |
 |They will see|They won't see|Will they see?|Won't they see?|
 
 >Note:在现代英语中，shall通常只和I、We连用，以提供意见或建议。老派的绅士们也会用I shall来代替I will用于肯定句和疑问句，年轻人这样遣词就显得过时了。  
