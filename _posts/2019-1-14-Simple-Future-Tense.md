@@ -67,6 +67,6 @@ It will 通常不缩写
 |We will see  |We won't see  |Will we see?  |Won't we see?  |
 |*We shall see|              |*Shall we see?|               |
 |They will see|They won't see|Will they see?|Won't they see?|
->Note:在现代英语中，shall通常只和I、We连用，以提供意见或建议。老派的绅士们也会用I shall来代替I will用于肯定句和疑问句，年轻人这样遣词就显得过时了。  
+>Note:在现代英语中，shall通常只和I、We连用，以提供意见或建议。老派的绅士们也会用I shall来代替I will用于肯定句，年轻人这样遣词就显得过时了。  
 但是在诗歌中，为了韵律美，各种人称都是可以使用shall的。如：*"With rings on her fingers and bells on her toes, She shall have music wherever she goes."*  
 >
