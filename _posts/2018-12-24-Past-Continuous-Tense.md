@@ -9,6 +9,7 @@ keywords: tense
 # 过去进行时（Past Continuous Tense）
 
 ## 过去进行时的功能
+
 过去的连续描述了此前一段时间内的行动或事件。这些行动或事件始于过去，并且在发言时仍在继续。换句话说，它表达了过去未完成或不完整的行动。  
 它用于：  
 * 通常，用过去时态描述故事中的背景。例如：  
@@ -27,7 +28,9 @@ When the shot rang out, she **was running** towards the river..."
 `Caroline was skiing when she broke her leg.`  
 `When we arrived he was having a bath.`  
 `When the fire started I was watching television.`  
+
 ## 过去进行时的构成
+
 过去进行时的构成包含两个部分：be动词的过去式（was、were），以及主动词的ing形式。  
 
 |Subject       |was/were|verb + ing|
