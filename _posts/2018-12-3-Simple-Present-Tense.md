@@ -5,6 +5,7 @@ categories: tense
 description: 介绍Simple present tense的语法
 keywords: tense
 ---
+
 # 一般现在时(Simple present tense)
 
 ## 动词be的一般现在时
