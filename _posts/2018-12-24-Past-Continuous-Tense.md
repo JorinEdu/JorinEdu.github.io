@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 过去进行时
 categories: tense
@@ -7,6 +7,7 @@ keywords: tense
 ---
 
 # 过去进行时（Past Continuous Tense）
+
 ## 过去进行时的功能
 过去的连续描述了此前一段时间内的行动或事件。这些行动或事件始于过去，并且在发言时仍在继续。换句话说，它表达了过去未完成或不完整的行动。  
 它用于：  
