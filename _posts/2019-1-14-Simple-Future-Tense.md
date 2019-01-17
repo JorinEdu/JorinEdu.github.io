@@ -7,6 +7,7 @@ keywords: tense FutureTense
 ---
 
 # 一般将来时（Simple Future Tense）
+
 ## 一般将来时的定义
 一般将来时用来表述一个晚于此刻的时间发生的动作。它一般用于表述客观事实或能够确定的事情，在这种情况下，通常不包含说话者的主观态度。  
 一般将来时有以下用法：  
@@ -31,6 +32,7 @@ You **will do** exactly as I say.
 9. You作主语的疑问句中, 来发出邀请:  
 **Will you come** to the dance with me?  
 **Will you marry** me?  
+
 ## 一般将来时的构成
 一般将来时由两个部分构成：*will、 shall+ 不带to的动词不定式。  
 
@@ -57,7 +59,9 @@ They will = they'll
 Will not = won't  
 It will 通常不缩写
 >
+
 ### 用see的一般将来时造句
+
 |**肯定句**   |**否定句**    |**疑问句**    |**反义疑问句** |
 |-------------|--------------|--------------|---------------|
 |I will see   |I won't see   |Will I see?   |Won't I see?   |
@@ -67,6 +71,7 @@ It will 通常不缩写
 |We will see  |We won't see  |Will we see?  |Won't we see?  |
 |*We shall see|              |*Shall we see?|               |
 |They will see|They won't see|Will they see?|Won't they see?|
+
 >Note:在现代英语中，shall通常只和I、We连用，以提供意见或建议。老派的绅士们也会用I shall来代替I will用于肯定句，年轻人这样遣词就显得过时了。  
 但是在诗歌中，为了韵律美，各种人称都是可以使用shall的。如：*"With rings on her fingers and bells on her toes, She shall have music wherever she goes."*  
 >
