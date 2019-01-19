@@ -32,23 +32,14 @@ keywords: Tense PerfectTense
 *We **have eaten** at that restaurant many times.*  
 * 一件刚刚完成的事情，通常用到just。  
 *I **have just finished** my homework.*  
-
-***Have you just finished** work?*  
-
-*I **have just eaten.***  
-
-*We **have just seen** her.*  
-
-***Has he just left?***  
-
+*Have you just finished work?*  
+*I have just eaten.*  
+*We have just seen her.*  
+*Has he just left?*  
 * 一件过去发生的，并对现在产生了影响的事。  
-
 *He **has read** ‘War and Peace.’* (他读过这本书增加了见识.)  
-
-*Someone **has eaten** my soup!*(所以我现在没汤喝了)  
-
+*Someone **has eaten** my soup!* (所以我现在没汤喝了)  
 ***Have you seen** 'Gone with the Wind'?*  
-
 *She **has studied** Japanese, Russian, and English.*  
 
 **Note：**  
