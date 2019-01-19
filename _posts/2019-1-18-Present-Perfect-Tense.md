@@ -33,101 +33,90 @@ keywords: Tense PerfectTense
 * 一件刚刚完成的事情，通常用到just。  
 *I **have just finished** my homework.*  
 ***Have you just finished** work?*  
-*I **have just eaten**.*  
+*I **have just eaten.***  
 *We **have just seen** her.*  
-***Has he just left**? *   
+***Has he just left?***  
 * 一件过去发生的，并对现在产生了影响的事。  
 *He **has read** ‘War and Peace.’* (他读过这本书增加了见识.)  
 *Someone **has eaten** my soup!*(所以我现在没汤喝了)  
 ***Have you seen** 'Gone with the Wind'?*  
-*She **has studied** Japanese, Russian, and English.* 
+*She **has studied** Japanese, Russian, and English.*  
 **Note：**  
 你只有在描述一件发生的时间不重要或不特别的事情时，才能使用现在完成时。
 当你需要具体的给出事件的发生时间时，请使用一般过去时。  
 
-### 现在完成时使用ever，never，already，yet
+## 现在完成时使用ever，never，already，yet
+### EVER    
+副词**“ever”**和**“never”**用于表达一个发生于过去某个不确定的时间点的事件。这两个词总是放在主动词之前使用。  
+#### 疑问句  
+`EXAMPLES`  
+*Have you **ever been** to England?*  
+*Has she **ever met** the Prime Minister?*  
+#### 反问句
+`EXAMPLES`  
+*Haven't they **ever been** to Europe?*  
+*Haven't you **ever eaten** Chinese food?*  
+#### 用NOTHING+EVER或NOBODY+EVER表达否定意义的固定用法  
+`EXAMPLES`  
+***Nobody** has **ever said** that to me before.*  
+***Nothing** like this has **ever happened** to us.*  
 
-EVER  
-The adverbs ever and never express the idea of an unidentified time before now(Have you ever visited Berlin?)'Ever' and 'never' are always placed before the main verb (past participle). Ever is used:  
+#### 与'THE FIRST TIME'连用  
+`EXAMPLES`  
+*It's **the first time** that I've ever eaten snails.*  
+*This is **the first time** I've ever been to England.*  
 
-IN QUESTIONS  
-EXAMPLES  
-Have you ever been to England?  
-Has she ever met the Prime Minister?  
+### NEVER  
+Never意味着某件从来没干过的事，它和not...ever意思是一样的。  
+**BE CAREFUL!** never和not不能连用。  
+~~I haven't never been to Italy.~~  
+*I have never been to Italy.*  
 
-IN NEGATIVE QUESTIONS  
-EXAMPLES  
-Haven't they ever been to Europe?  
-Haven't you ever eaten Chinese food?  
+### ALREADY  
+**Already**用于描述一件此前已经发生过，且不需要在重复做的事。  
+`EXAMPLES`  
+*I've **already drunk** three coffees this morning. (= and you're offering me another one!)*  
+*Don't write to John, I've **already done** it.*  
+这个词也在疑问句中使用:  
+*Have you **already written** to John?*  
+*Has she **finished her homework already?***  
+Already可以放在动词的过去分词前使用，也可以放在句子最后使用。  
+*I have **already** been to Tokyo.*  
+*I have been to Tokyo **already.***  
 
-IN NEGATIVE STATEMENTS USING THE PATTERN NOTHING+EVER OR NOBODY+EVER  
-EXAMPLES  
-Nobody has ever said that to me before.  
-Nothing like this has ever happened to us.  
+### YET  
+Yet用于表述一件目前为止还没发生的事，它仅用于疑问句和表达否定意味的陈述句。使用时，Yet放在句子末尾。  
+`EXAMPLES`  
+*Have you met Judy **yet?***  
+*I haven't visited the Tate Gallery **yet.***  
+*Has he arrived **yet?***  
+*They haven't eaten **yet.***  
 
-WITH 'THE FIRST TIME'  
-EXAMPLES  
-It's the first time that I've ever eaten snails.  
-This is the first time I've ever been to England.  
+## 现在完成时使用for和since  
+在现在完成时中通过使用for + 一段时间，我们可以描述一件过去发生的事所持续的时间；通过使用since + 一段时间，我们可以描述一件过去发生的事开始的时间点。这两个词也可以在过去完成时中使用。Since只能用于完成时，而for还可以用于一般过去时。  
+### FOR +一段时间  
+**for six years**, **for a week**, **for a month**, **for hours**, **for two hours**.  
+`EXAMPLES`  
 
-NEVER  
-Never means at no time before now, and is the same as not ..... ever: (I have never visited Berlin)  
+*I have worked here **for five years.***  
 
-BE CAREFUL!You must not use never and not together  
-I haven't never been to Italy.  
-I have never been to Italy.  
+*She has lived here **for twenty years.***  
 
-ALREADY  
-Already refers to an action that has happened at an unspecified time before now. It suggests that there is no need for repetition.  
+*We have taught at this school **for a long time.***  
 
-EXAMPLES  
-I've already drunk three coffees this morning. (= and you're offering me another one!)  
-Don't write to John, I've already done it.  
+*Alice has been married **for three months.***  
 
- 
+*They have been at the hotel **for a week.***  
 
-It is also used in questions:  
+### SINCE +一段时间
+**since this morning, since last week, since yesterday, since I was a child, since Wednesday, since 2 o'clock.**  
+`EXAMPLES`  
+*I have worked here **since 1990.***  
 
-Have you already written to John?  
-Has she finished her homework already?  
- 
+*She has lived here **since 1980.***  
 
-Already can be placed before the main verb (past participle) or at the end of the sentence:  
+*We have taught at this school **since 1965.***  
 
-I have already been to Tokyo.  
-I have been to Tokyo already.  
- 
+*Alice has been married **since March 2nd.***  
 
-YET  
-Yet is used in negative statements and questions, to mean (not) in the period of time between before now and now, (not) up to and including the present. Yet is usually placed at the end of the sentence.  
-
-EXAMPLES  
-Have you met Judy yet?  
-I haven't visited the Tate Gallery yet  
-Has he arrived yet?  
-They haven't eaten yet    
-
-### 现在完成时使用for和since  
-
-Using the present perfect, we can define a period of time before now by considering its duration, with for + a period of time, or by considering its starting point, with since + a point in time. FOR and SINCE can also both be used with the past perfect. SINCE can only be used with perfect tenses. FOR can also be used with the simple past.
-
-FOR + A PERIOD OF TIME  
-for six years, for a week, for a month, for hours, for two hours  
-I have worked here for five years.  
-
-SINCE + A POINT IN TIME  
-since this morning, since last week, since yesterday  
-since I was a child, since Wednesday, since 2 o'clock  
-I have worked here since 1990.  
-
-PRESENT PERFECT WITH FOR  
-She has lived here for twenty years.  
-We have taught at this school for a long time.  
-Alice has been married forthree months.  
-They have been at the hotel for a week.  
-
-PRESENT PERFECT WITH SINCE  
-She has lived here since 1980.  
-We have taught at this school since 1965.  
-Alice has been married since March 2nd.  
-They have been at the hotel since last Tuesday.  
+*They have been at the hotel **since last Tuesday.***  
