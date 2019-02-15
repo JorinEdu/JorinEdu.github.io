@@ -22,8 +22,8 @@ It **will rain** tomorrow.
 The baby **won't eat** his soup.  
 I **won't leave** until I've seen the manager!  
 5. I作主语的疑问句中，使用"shall", 来提出一个请求:  
-**Shall I open** the window?  
-6.We作主语的疑问句中，使用 "shall",来作出一个提议:  
+**Shall I open** the window?
+6. We作主语的疑问句中，使用 "shall",来作出一个提议:  
 **Shall we go** to the cinema tonight?  
 7. I作主语的疑问句中，使用"shall", 来寻求建议或指示:  
 What **shall I tell** the boss about this money?  
