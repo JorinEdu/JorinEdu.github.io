@@ -6,9 +6,18 @@ description: 介绍present continuous的语法
 keywords: tense
 ---
 # 现在进行时（PRESENT CONTINUOUS TENSE）  
-## 现在进行时的构成
 任何动词的现在进行时形态，都包含两个部分：**be动词 + 主动词的现在分词**  
-（现在分词的构词方法是：**base+ing**, *e.g. talking, playing, moving, smiling*）  
+## 现在分词的构词方法
+
+|规则                           |举例             |
+|:-----------------------------|:--------------:|
+|大多数动词后加ing               |go -> going     |
+|以不发音的e结尾的动词，去e加ing  |take -> taking  |
+|以ie结尾的动词，变ie为y，再加ing |die -> dying    |
+|以一个辅音字母结尾的重读闭音节动词|                |
+|双写最后一个辅音，再加ing        |swim -> swimming|
+
+## 现在进行时的构成
 
 |肯定句       |                  |           |
 |------------|------------------|-----------|
@@ -40,7 +49,7 @@ keywords: tense
 * 描述此时正在进行的动作：  
 ***You are using*** the Internet.  
 ***You are studying*** English grammar.  
-* 描述在此时段或其他时段内正在进行的操作、正在发生的事：  
+* 描述在当前阶段内的活动或正在进行的操作、正在发生的事：  
 ***Are you still working*** for the same company?  
 More and more people ***are becoming vegetarian***.  
 * 描述已经计划或准备要在将来做的事情:  
@@ -53,6 +62,9 @@ The weather forecast was good, but ***it's raining*** at the moment.
 * 和"always, forever, constantly"这几个词一起用, 描述和强调一系列重复的行动：  
 Harry and Sally ***are always arguing***!  
 ***You're always complaining*** about your homework!  
+* 带有鲜明的时间状语，如Now，或带有look, listen等暗示动作正在进行，或有表示现在正在进行的上下文语境：  
+***Listen！*** Our teacher is sing a English song!  
+-***Where is your father?***  -Oh, He is cleaning his car.  
 
 `BE CAREFUL! 有一些动词通常不使用进行时`
 
