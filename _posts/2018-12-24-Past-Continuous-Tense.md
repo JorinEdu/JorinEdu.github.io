@@ -55,3 +55,45 @@ When the shot rang out, she **was running** towards the river..."
 |**We** were playing  |We weren't playing  |Were we playing?  |
 |**They** were playing|They weren't playing|Were they playing?|
 
+## 不用于进行时的词
+
+|知觉         |看法      |心理状态   |
+|------------|----------|----------|
+|feel*       |assume    |forget    |
+|hear        |believe   |imagine   |
+|see*        |consider  |know      |
+|smell       |doubt     |mean      |
+|taste       |feel      |notice    |
+|            |find      |recognise |
+|            |think*    |remember  |
+|            |          |understand|
+|**情绪/欲望**|**度量衡**|**其他**   |
+|envy        |contain   |look|
+|fear        |cost      |seem|
+|dislike     |hold      |be (在多数情况下)|
+|hate        |measure   |have (作“拥有"解释时)|
+|love        |weigh     ||
+|prefer      |          ||
+|wish        |          ||
+|want        |          ||
+
+## When, While, as
+这三个词，均有“当 ... 的时候”的意思。  
+* **When**和**as**既可以指某一时间点，也可以指一段时间；**While**则指一段时间。  
+因此，短暂性动词只能用When和as，而不能用while。  
+`When/As he woke up, it was 8 o'clock.`  
+`While I was waiting for a bus, I met her.`  
+* When引导的从句的谓语动作，可以在主谓语动作之前、之后或同时发生；While和as引导的从句的谓语动作，必须和主谓语动作同时发生。  
+`When he finished his homework, he played the game for a while. 他在完成作业之后玩游戏`  
+`When I go to the museum, the door was closed. 在我到达之前，就已经关门了`  
+`While I was sleeping, the telephone rang. 我睡觉的同时，电话铃响了`  
+* 当主语、从句同时发生，且从句动作为延续性动作时，三者皆可使用。  
+`When/While/As she was makeing a phone call, I was writing a Email.`  
+* 强调两个动作同时进行，常用“过去进行时 + while + 过去进行时”结构。  
+`They were rowing boats while we were climbing the hill.`  
+* 强调某个动作发生时，另一个动作正在进行，常用“一般过去时 + while + 过去进行时”结构。  
+`It began to rain heavily while we were having dinner.`  
+* 强调某个动作正在进行时，另一个动作突然发生，常用“过去进行时 + when + 一般过去时”结构。  
+`I was walking in the street when he called me.`  
+* 当主句、从句同时发生，且从句时间淡化，作“一边...一边”解时，只能用as。  
+`I woke up as the sun was rising.`
