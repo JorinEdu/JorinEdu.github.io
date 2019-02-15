@@ -37,15 +37,22 @@ keywords: tense
 ## 现在进行时的功能  
 与英语中的所有时态一样，说**话者的态度**与行动或事件的时间一样重要。当有人使用现在进行时时，他们想表达的不一定是“某人正在干某事”，而是“某人正在干，但还没干完某事”。  
 现在进行时有如下几种用法：
-* 描述此时正在进行的动作: ***You are using*** the Internet. ***You are studying*** English grammar.  
-* 描述在此时段或其他时段内正在进行的操作、正在发生的事: ***Are you still working*** for the same company?
+* 描述此时正在进行的动作：  
+***You are using*** the Internet.  
+***You are studying*** English grammar.  
+* 描述在此时段或其他时段内正在进行的操作、正在发生的事：  
+***Are you still working*** for the same company?  
 More and more people ***are becoming vegetarian***.  
-* 描述已经计划或准备要在将来做的事情: ***We're going*** on holiday tomorrow.
-***I'm meeting*** my boyfriend tonight. ***Are they visiting*** you next winter?  
-* 描述临时事件或情况: He usually plays football, but ***he's playing basketball*** today.
+* 描述已经计划或准备要在将来做的事情:  
+***We're going*** on holiday tomorrow.  
+***I'm meeting*** my boyfriend tonight.  
+***Are they visiting*** you next winter?  
+* 描述临时事件或情况：  
+He usually plays football, but ***he's playing basketball*** today.  
 The weather forecast was good, but ***it's raining*** at the moment.  
-* 和"always, forever, constantly"这几个词一起用, 描述和强调一系列重复的行动:
-Harry and Sally ***are always arguing***! ***You're always complaining*** about your homework!  
+* 和"always, forever, constantly"这几个词一起用, 描述和强调一系列重复的行动：  
+Harry and Sally ***are always arguing***!  
+***You're always complaining*** about your homework!  
 
 `BE CAREFUL! 有一些动词通常不使用进行时`
 
