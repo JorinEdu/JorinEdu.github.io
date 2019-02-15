@@ -124,3 +124,13 @@ Since只能用于完成时，而for还可以用于一般过去时。
 *Alice has been married **since March 2nd.***  
 
 *They have been at the hotel **since last Tuesday.***  
+
+## 一般过去时和现在完成时的区别
+一般过去时和现在完成时都可以表示过去发生的事，但在具体语境中，二者有一些区别。  
+* 一般过去时侧重点在陈述过去发生的事情或状态。  
+*I went to Beijing last month.*  
+*Tom was in China in 2008*  
+* 现在完成时表示截止到说话时，已经发生（不一定结束）的动作或状态。强调造成的结果对现在的影响。  
+*I have eaten a big apple.* 言下之意：我已经饱了，现在不想吃东西了。  
+* 一般过去时常与表示过去的时间状语连用，如yesterday、last week等。
+* 现在完成时与频度副词或表示一段时间的状语连用，如never、this week等。
