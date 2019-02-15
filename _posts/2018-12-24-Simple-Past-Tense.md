@@ -28,8 +28,17 @@ She played the piano **when she was a child**.
 I **sometimes** walked home at lunchtime.  
 I **often** brought my lunch to school.  
 **Note:**单词**ago**通常在一些表达“一段时间”的词组后使用，比如：a week ago, three years ago, a minute ago.  
+## 动词的过去式
+
+|规则                           |举例             |
+|:------------------------------|:---------------|
+|一般的谓语动词后面直接加ed       |ask -> asked    |
+|以不发音的e结尾的动词，直接加d   |arrive-> arrived|
+|以辅音字母+y结尾的动词，去y加ied |sutdy -> studied|
+|以一个辅音字母结尾的重读闭音节动词|               |
+|双写最后一个辅音字母，再加ed     |shop -> shopped|
+
 ## 一般过去时的构成
-动词的过去时形态  
 
 |**肯定句式**   |               |                |
 |---------------|---------------|----------------|
@@ -91,7 +100,7 @@ have, do这两个词在疑问句中和否定句中，使用助动词did + 不带
 went在古英语中是动词wend的过去式，他的过去分词是wenden。wend-went-wenden。通过上述原则，我们知道wend遵循强动词的变化形式。但在漫长的英语发展过程中，wend的近义词go，在日常使用中频率较大，逐渐替代了wend的地位。  
 再后来，go就直接窃取了went，来作为它的过去式。而原主人wend的过去式却变成了wended。  
 和go类似的“鸠占鹊巢”的现象还体现在形容词的比较级和最高级的变化上，如：good, better, best//bad, worse, worst  
-这种语言现象，我们称之为**suppletion**  这个词暂时没有确切的中文译名  
+这种语言现象，我们称之为**suppletion**  这个词的中文译名叫做“异干互补”或“不规则词形屈折”。  
 现代英语中有不少规则变化的强动词。  
 如bend/bent, send/sent, spend/spent, lend/lent这组；又比如come/came, give/gave这组。  
 这些词在流行的中文版语法教材中，被笼统的称为“不规则变化的动词”。这里我们按照英国语言教学的惯例予以详细说明。
