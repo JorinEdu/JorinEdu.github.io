@@ -30,11 +30,11 @@ And we’ll leave you with a top tip for learning vocabulary.
 **Alice**  
 So: to start off, we’re going to listen to Andrea and Steve who work in a bank. They have just interviewed two people who want to work there.  
 **Finn**  
-And here’s a question to think about while you listen: who did Andrea and Steve like best - the first person or the second person?  
-**Alice**  
+And here’s a question to think about while you listen: who did Andrea and Steve like best - the first person or the second person  
+**Alice**
 Who did they like best? Let’s find out.  
-**INSERT**  
 
+**INSERT**  
 **Andrea**  
 What do you think then Steve?  
 **Steve**  
@@ -66,7 +66,8 @@ And the second one was responsible, that’s responsible with –ible, spelt ‘
 Now for another suffix. Andrea and Steve talked about two interviewees. The suffix –ee, spelt e-e, makes a noun which means ‘the person who receives an action’.  
 **Alice**  
 For example, if you add –ee to interview, you get the person who receives an interview, an interviewee.  
-**IDENT**
+
+**IDENT**  
 
 You’re listening to BBC Learning English dot com.  
 **Finn**  
