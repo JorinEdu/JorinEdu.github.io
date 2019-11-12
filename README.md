@@ -3,5 +3,5 @@
 
 联系我们:吴老师17185193120/18761882014  
 李老师14705199130  
-E-mail: <JorinEdu@outlook.com>  
-WeChart:329838343
+E-mail: <JorinEducation@outlook.com>  
+微信&QQ:329838343
