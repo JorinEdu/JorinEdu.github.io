@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Milly and the Rainbow"
+description: A story about a young girl named Milly.
+keywords: Story 
+categories: Story
+---
+
 # Milly and the Rainbow
 
 <p>http://jorinedu.gq/Milly%20and%20the%20rainbow.mp3</p>
