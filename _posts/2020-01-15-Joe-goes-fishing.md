@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Milly and the Rainbow"
-description: A story about a young girl named Milly.
+title:  "Joe goes fishing"
+description: A story about a young boy named Joe.
 keywords: Story 
 categories: Story
 ---
