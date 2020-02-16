@@ -5,7 +5,7 @@ description: A story about a young girl named Goldilocks.
 keywords: Story 
 categories: Story
 ---
-<p>http://jorinedu.gq/Goldilocks%20and%20the%20three%20bears.mp3</p>
+<p>http://jorinedu.xyz/Goldilocks%20and%20the%20three%20bears.mp3</p>
 # Goldilocks and the three bears  
 *This is a story about a young girl named Goldilocks.*  
 One day, she was walking in the woods when she saw a house. She knocked on the door, but no one answered. In fact, the door wasn't locked, and when it opened, Goldilocks walked straight in. What she didn't know was that in the house lived a  family of three bears. They had left the house to go for a walk.  
