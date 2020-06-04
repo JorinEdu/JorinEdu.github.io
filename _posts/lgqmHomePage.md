@@ -6,7 +6,7 @@ description: This is a lgqm page
 keywords: lgqm
 ---
 
-![Alt text](https://raw.githubusercontent.com/JorinEdu/JorinEdu.github.io/master/images/HomePage.png "title text")
+[![alt text](https://raw.githubusercontent.com/JorinEdu/JorinEdu.github.io/master/images/HomePage.png "title")](http://chuiniu.duanshu.com/#/)
 
 # 临高启明
 点此访问 [短书吹牛部落](http://chuiniu.duanshu.com/#/ "吹牛部落") 
