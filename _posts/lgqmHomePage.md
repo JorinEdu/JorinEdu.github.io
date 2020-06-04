@@ -1,0 +1,12 @@
+---
+layout: post
+title: lgqm HomePage
+categories: lgqm  
+description: This is a lgqm page  
+keywords: lgqm
+---
+
+![Alt text](https://raw.githubusercontent.com/JorinEdu/JorinEdu.github.io/master/images/HomePage.png "title text")
+
+# 临高启明
+点此访问 [短书吹牛部落](http://chuiniu.duanshu.com/#/ "吹牛部落") 
