@@ -7,7 +7,7 @@ categories: Story
 ---
 
 # Joe goes fishing
-<p>https://www.lgqm.top/m/Joe%20goes%20fishing.mp3</p>
+<p>https://www.jorinedu.xyz/Joe%20goes%20fishing.mp3</p>
 
 Joe sat on his bed and looked at his birthday presents. They were great! Smart new trainers from his mum. A fishing rod from his dad. And best of all, his grandpa had given him a watch. A proper, grown-up watch with a black leather strap and a silver face.  
 ‘You’re a young man now,’ his grandpa said, as Joe opened the box. ‘Twelve years old. Happy birthday!’  
