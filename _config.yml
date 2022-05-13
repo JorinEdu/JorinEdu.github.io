@@ -3,8 +3,8 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
-title: 临高启明
-subtitle: "临高启明短书跳转平台"
+title: 乔琳教育
+subtitle: "始终如一的英语教育品牌"
 description: "Welcome"
 keywords: Education, John, Jorin, English
 timezone: Asia/NanJing
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Jhon Woo
 organization: JorinEdu
-organization_url: http:\\23.106.154.136:801
+organization_url: https://jorinedu.github.io/
 github_username: JorinEdu
 location: Nanjing, China
 email: wuqiong0628@outlook.com
