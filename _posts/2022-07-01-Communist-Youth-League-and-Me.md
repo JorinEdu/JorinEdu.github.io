@@ -6,7 +6,7 @@ keywords: speech,wangliang
 categories: speech
 ---
 # Communist Youth League and Me
-<p>https://.mp3</p>
+<p>https://www.jorinedu.tk/test.mp3</p>
 Recently, our company welcomed the interns in 2022. 
 The first time when I met them, I couldn't help thinking of the scene in that I joined the company two years ago: shy, nervous but active and energetic. 
 Shortly after my induction, the party branch secretary of our organization came to me， he said: "Wang Liang, would you like to be the secretary of our Youth League Branch?". To be honest, I was hesitant, because I had decided to become a professional technician before joining the company. And I’ve already been told that the responsibility of the Communist Youth League was to work with the young, which had little relationship with my career plan.  
