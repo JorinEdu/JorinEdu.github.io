@@ -88,7 +88,7 @@ gitalk:
     owner: JorinEdu
     repo: JorinEdu.github.io
     clientID: 94a62be903a54f0eb4a6
-    clientSecret: # TODO: 旧 secret 已泄露，请到 GitHub OAuth App 后台重置后填入新值
+    clientSecret: fa4792664af95beb8790ece8d39b1c7d57b68241
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
